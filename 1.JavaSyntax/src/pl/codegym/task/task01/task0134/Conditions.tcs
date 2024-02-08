@@ -1,0 +1,19 @@
+taskKey="pl.codegym.task.task01.task0134"\n\nNapełnij basen wodą
+
+Amigo, dziś naszym zadaniem jest wypełnienie basenu na statku. Oblicz, ile litr&oacute;w wody potrzeba, żeby wypełnić basen po brzegi. Basen ma wymiary a x b x c, podane w metrach.
+Te wymiary są przekazywane do metody getObjetosc. Metoda powinna zwr&oacute;cić liczbę litr&oacute;w wody potrzebnych do wypełnienia basenu.
+
+Przeanalizuj ten przykład:
+Metoda getObjetosc została wywołana z argumentami 25, 5 i 2.
+
+Przykładowy wynik:
+250000
+
+
+Требования:
+1.	Metoda getObjetosc(int, int, int) musi być publiczna i statyczna.
+2.	Metoda getObjetosc(int, int, int) musi zwracać typ long.
+3.	Metoda getObjetosc(int, int, int) nie powinna nic wyświetlać.
+4.	Metoda getObjetosc(int, int, int) musi zwracać prawidłową ilość wody w litrach potrzebną do wypełnienia basenu.
+
+

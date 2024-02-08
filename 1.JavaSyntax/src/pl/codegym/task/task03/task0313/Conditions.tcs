@@ -1,0 +1,20 @@
+taskKey="pl.codegym.task.task03.task0313"\n\nAla ma kota
+
+Wyświetl wszystkie możliwe kombinacje sł&oacute;w &bdquo;Ala&rdquo;, &bdquo;ma&rdquo;, &bdquo;kota&rdquo;.
+
+Wskaz&oacute;wka: istnieje 6 kombinacji.
+Każdą kombinację wyświetl w nowej linii. Nie rozdzielaj sł&oacute;w.
+
+Przeanalizuj ten przykład:
+makotaAla
+kotaAlama
+...
+
+
+Требования:
+1.	Program powinien wyświetlać tekst.
+2.	Wyświetlony tekst powinien składać się z 6 linii.
+3.	Tekst w każdej linii musi być unikalny.
+4.	Należy wyświetlić wszystkie możliwe kombinacje.
+
+

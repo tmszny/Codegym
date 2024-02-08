@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task03.task0302"\n\nWyświetl od razu
+
+Dodaj metodę public static void printString(String s) i napisz w niej kod, kt&oacute;ry wyświetli przekazany string.
+
+
+Требования:
+1.	Dodaj metodę printString, kt&oacute;ra przyjmuje argument typu String.
+2.	Metoda printString musi być void.
+3.	Metoda printString musi być statyczna.
+4.	Metoda printString musi być publiczna.
+5.	Metoda printString musi wyświetlać przekazany tekst.
+6.	Program powinien wyświetlać &bdquo;Cześć, Amigo!&rdquo;.
+
+

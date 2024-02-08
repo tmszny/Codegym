@@ -1,0 +1,21 @@
+taskKey="pl.codegym.task.task04.task0415"\n\nZasada trójkąta
+
+Wprowadź za pomocą klawiatury trzy liczby: a, b i c (długości bok&oacute;w proponowanego tr&oacute;jkąta).
+Ustal, czy można zbudować taki tr&oacute;jkąt.
+Wyświetl wynik w następujący spos&oacute;b:
+&quot;Da się zbudować tr&oacute;jkąt.&quot; &ndash; jeśli tr&oacute;jkąt o takich bokach może być zbudowany.
+&quot;Nie da się zbudować tr&oacute;jkąta.&quot; &ndash; jeśli tr&oacute;jkąt o takich bokach nie może być zbudowany.
+
+Wskaz&oacute;wka:
+Tr&oacute;jkąt może być zbudowany tylko wtedy, gdy suma długości jego dw&oacute;ch bok&oacute;w jest większa od długości trzeciego boku.
+Musisz por&oacute;wnać długość każdego boku z sumą długości dw&oacute;ch pozostałych.
+Nawet jeśli jeden bok jest dłuższy lub r&oacute;wny sumie długości dw&oacute;ch pozostałych bok&oacute;w, to taki tr&oacute;jkąt nie może być zbudowany.
+
+
+Требования:
+1.	Program powinien czytać trzy liczby z klawiatury.
+2.	Program powinien wyświetlać na ekranie tekst zgodnie z warunkami zadania.
+3.	Jeśli tr&oacute;jkąt może być zbudowany z określonych odcink&oacute;w, musisz wyświetlić: &bdquo;Da się zbudować tr&oacute;jkąt.&rdquo;
+4.	Jeśli tr&oacute;jkąt nie może być zbudowany z określonych odcink&oacute;w, musisz wyświetlić: &bdquo;Nie da się zbudować tr&oacute;jkąta.&rdquo;
+
+

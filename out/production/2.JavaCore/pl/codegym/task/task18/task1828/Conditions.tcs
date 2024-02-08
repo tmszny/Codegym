@@ -1,0 +1,31 @@
+taskKey="pl.codegym.task.task18.task1828"\n\nCeny 2
+
+CrUD dla tabeli w pliku
+Odczytaj z konsoli nazwę pliku dla operacji CrUD
+Program jest wykonywany z jednym z następujących zestaw&oacute;w argument&oacute;w:
+-u id productName price quantity
+-d id
+Wartości argument&oacute;w:
+gdzie id to 8 znak&oacute;w
+productName to 30 znak&oacute;w
+price to 8 znak&oacute;w
+quantity to 4 znaki
+-u aktualizuje dane dotyczące produktu o określonym id
+-d fizycznie usuwa produkt o określonym id (wszystkie dane związane z przekazanym id)
+Dane w pliku są przechowywane w następującej kolejności (bez spacji):
+id productName price quantity
+Każde pole danych jest uzupełniane spacjami na całej długości
+Przykład:
+19847&nbsp;&nbsp;&nbsp;Swim&nbsp;trunks,&nbsp;blue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;159.00&nbsp;&nbsp;12&nbsp;&nbsp;
+198479&nbsp;&nbsp;Swim&nbsp;trunks,&nbsp;black&nbsp;with&nbsp;printe173.00&nbsp;&nbsp;17&nbsp;&nbsp;
+19847983Snowboard&nbsp;jacket&nbsp;with&nbsp;reflecti10173.991234
+
+
+Требования:
+1.	Program powinien odczytywać z konsoli nazwę pliku dla operacji CrUD.
+2.	W przypadku uruchamiania programu bez argument&oacute;w, lista produkt&oacute;w musi pozostać niezmieniona.
+3.	W przypadku uruchamiania programu z argumentami &quot;-u id productName price quantity&quot;, informacje dotyczące produkt&oacute;w znajdujące się w pliku powinny zostać zaktualizowane.
+4.	W przypadku uruchamiania programu z argumentami &quot;-d id&quot;, należy usunąć z pliku linię dotyczącą produktu o określonym id.
+5.	Strumienie pliku muszą zostać zamknięte.
+
+

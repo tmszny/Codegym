@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task03.task0312"\n\nKonwersja czasu
+
+Dodaj metodę public static int konwertujNaSekundy(int godzina), kt&oacute;ra konwertuje godziny na sekundy.
+Wywołaj ją w metodzie main dwa razy, z dowolnymi argumentami.
+Wyświetl wyniki, za każdym razem w nowej linii.
+
+
+Требования:
+1.	Dodaj metodę konwertujNaSekundy. Musi być publiczna, statyczna oraz musi przyjmować i zwracać int.
+2.	Metoda konwertujNaSekundy musi konwertować przekazaną liczbę godzin na sekundy.
+3.	Metoda main musi wywoływać metodę konwertujNaSekundy dwa razy.
+4.	Metoda main powinna wyświetlać wynik wywołań, każdy w nowej linii.
+5.	Metoda konwertujNaSekundy nie powinna nic wyświetlać.
+
+

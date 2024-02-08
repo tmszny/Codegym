@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task03.task0308"\n\nIloczyn 10 liczb
+
+Wyświetl iloczyn 10 liczb od 1 do 10.
+Wynik to jedna liczba.
+
+Wskaz&oacute;wka:
+będzie to ponad trzy miliony.
+
+
+Требования:
+1.	Program musi wyświetlać liczbę całkowitą.
+2.	Metoda main powinna wywoływać metodę System.out.println.
+3.	Wyświetlona liczba powinna być większa niż trzy miliony.
+4.	Wyświetlona liczba musi spełniać warunki zadania.
+
+

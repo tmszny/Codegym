@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task03.task0304"\n\nZadanie z procentami
+
+Napisz kod metody dodajDziesiecProcent, kt&oacute;ry zwiększa przekazaną liczbę całkowitą o 10%.
+Użyj instrukcji return, aby zwr&oacute;cić wynik z metody dodajDziesiecProcent.
+
+Przeanalizuj ten przykład:
+return 123 * 435;
+
+
+Требования:
+1.	Metoda dodajDziesiecProcent powinna zwiększać o 10% wartość przekazanej liczby.
+2.	Metoda main powinna wywoływać metodę dodajDziesiecProcent.
+3.	Metoda main powinna wyświetlać wyniki wywołania.
+4.	Metoda dodajDziesiecProcent nie powinna nic wyświetlać.
+
+

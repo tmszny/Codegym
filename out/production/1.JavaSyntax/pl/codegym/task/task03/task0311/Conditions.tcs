@@ -1,0 +1,17 @@
+taskKey="pl.codegym.task.task03.task0311"\n\nWyświetlanie stringów
+
+Zaimplementuj metodę public static void piszDoKonsoli(String s), kt&oacute;ra na początku stringu dodaje &quot;printing: &quot; i wyświetla zmieniony string.
+
+Przykładowy wynik dla &quot;Witaj, świecie! &quot;:
+printing: Witaj, świecie!
+
+
+Требования:
+1.	Dodaj metodę piszDoKonsoli, kt&oacute;ra przyjmuje argument String.
+2.	Metoda piszDoKonsoli musi być void.
+3.	Metoda piszDoKonsoli musi być statyczna.
+4.	Metoda piszDoKonsoli musi być publiczna.
+5.	Metoda piszDoKonsoli powinna dodawać na początku stringu &quot;printing: &quot; i wyświetlać wynik.
+6.	Program powinien wyświetlać &quot;printing: Witaj, świecie!&quot;.
+
+

@@ -1,0 +1,17 @@
+taskKey="pl.codegym.task.task03.task0314"\n\nTabliczka mnożenia
+
+Wyświetl tabliczkę mnożenia 10 x 10 w następującej formie:
+1 2 3 4 &hellip;
+2 4 6 8 &hellip;
+3 6 9 12 &hellip;
+4 8 12 16 &hellip;
+&hellip;
+
+
+Требования:
+1.	. Program powinien wyświetlać tekst.
+2.	. Wyświetlony tekst powinien składać się z 10 linii.
+3.	. Każdy wyświetlony ciąg musi zawierać 10 liczb rozdzielonych spacjami.
+4.	. Wyświetlone liczby muszą tworzyć tabliczkę mnożenia.
+
+

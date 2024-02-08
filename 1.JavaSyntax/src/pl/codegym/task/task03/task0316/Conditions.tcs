@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task03.task0316"\n\nEskejpowanie znaków
+
+Wyświetl następujący tekst (dwie linie):
+To jest ścieżka Windows: &quot;C:\Program Files\Java\jdk1.8.0_172\bin&quot;
+To jest string Java: \&quot;C:\\Program Files\\Java\\jdk1.8.0_172\\bin\&quot;
+
+Wskaz&oacute;wka:
+\&quot; - Sekwencja ucieczki dla znaku podw&oacute;jnego cudzysłowu.
+\\ - Sekwencja ucieczki dla znaku odwrotnego ukośnika (\).
+
+
+Требования:
+1.	Program powinien wyświetlać tekst.
+2.	Należy wyświetlić dwie linie.
+3.	Pierwsza linia powinna wyglądać następująco: To jest ścieżka Windows: &quot;C:\Program Files\Java\jdk1.8.0_172\bin&quot;
+4.	Druga linia powinna wyglądać następująco: To jest string Java: \&quot;C:\\Program Files\\Java\\jdk1.8.0_172\\bin\&quot;
+
+

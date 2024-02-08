@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task03.task0303"\n\nWymiana walut
+
+Napisz kod metody konwertujEurNaUsd, kt&oacute;ra będzie zamieniać euro na dolary po podanym kursie wymiany.
+Użyj instrukcji return, aby zwr&oacute;cić wynik z metody konwertujEurNaUsd. Przykład: return 123*435;
+W metodzie main wywołaj metodę konwertujEurNaUsd dwa razy, z dowolnymi argumentami.
+Wyświetl wyniki, za każdym razem w nowej linii.
+
+Wskaz&oacute;wka:
+Do obliczenia wyniku służy następujący wz&oacute;r: dolary = euro * kurs wymiany
+
+
+Требования:
+1.	Metoda konwertujEurNaUsd musi mnożyć kwotę euro przez kurs wymiany i zwracać wynik.
+2.	Metoda main musi wywoływać metodę konwertujEurNaUsd dwa razy, z dowolnymi argumentami.
+3.	Metoda main powinna wyświetlać wynik wywołań, każdy w nowej linii.
+4.	Metoda konwertujEurNaUsd nie powinna nic wyświetlać.
+
+

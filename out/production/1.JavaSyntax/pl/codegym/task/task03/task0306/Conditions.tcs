@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task03.task0306"\n\nŁamigłówka w nawiasach
+
+Ustaw poprawnie (inaczej) nawiasy, aby wyświetlić na ekranie liczbę 382.
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Metoda main musi zawierać tylko jedno wywołanie System.out.println.
+3.	Nie można zmieniać kolejności cyfr i operacji arytmetycznych.
+4.	Ostateczne wyrażenie powinno mieć 2 nawiasy otwierające i 2 nawiasy zamykające.
+5.	Metoda main powinna wyświetlać liczbę 382.
+
+
